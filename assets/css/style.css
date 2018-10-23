@@ -5,6 +5,7 @@ body {
 .navbar {
 width: 100%;
 position: fixed;
+padding: 5px;
 
 }
 
@@ -12,17 +13,22 @@ position: fixed;
 ul {
     list-style: none;
     margin: 0;
-    padding: 0;       
+    padding: 0;
+
+          
 }
 
 li {
     display: inline;
-    padding: 14px 216px;
+    padding: 14px 216px;   
 }
+
 .underline {
-    width: 100%;
+    width: 90%;
     border: solid black 2px;  
     position: fixed;
+    margin-left: 5%;
+    
     
 }
 
@@ -32,15 +38,31 @@ li {
     background-size: 100%;
     background-repeat: no-repeat;
     color: rgba(211, 244, 247, 0.568);
-    width: 98%;
+    width: 90%;
     height: 650px;    
-    margin-left: 1%; 
-    margin-top: 5px;   
+    margin-left: 5%; 
+    margin-top: -2px;   
     margin-bottom: 5px;
+    padding-bottom: 5px;
 }
 
 .underline1 {
     border: solid black 2px; 
-    width: 100%;          
+    width: 92%;
+    margin-left: 4%;          
+}
+
+.underline2 {
+    border: solid black 2px;
+    width: 200px;
+}
+
+#about {
+    padding: 25px 0px;
+}
+
+.oscar {
+    display: center;
+    border: solid black 1px;
 }
 
