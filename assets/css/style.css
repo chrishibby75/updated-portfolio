@@ -1,27 +1,32 @@
+body {
+    width: 100%
+}
 
 .navbar {
 width: 100%;
-margin-bottom: 5px;
+position: fixed;
 
 }
+
 
 ul {
     list-style: none;
     margin: 0;
-    padding: 0;
-       
+    padding: 0;       
 }
 
 li {
     display: inline;
-    padding: 14px 16px;
+    padding: 14px 216px;
 }
-
 .underline {
-    border: solid black 2px;    
+    width: 100%;
+    border: solid black 2px;  
+    position: fixed;
+    
 }
 
-.jumbotron-fluid { 
+.jumbotron { 
     
     background-image: url(./background.jpg);
     background-size: 100%;
@@ -32,5 +37,10 @@ li {
     margin-left: 1%; 
     margin-top: 5px;   
     margin-bottom: 5px;
+}
+
+.underline1 {
+    border: solid black 2px; 
+    width: 100%;          
 }
 
