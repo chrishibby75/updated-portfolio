@@ -64,5 +64,10 @@ li {
 .oscar {
     display: center;
     border: solid black 1px;
+    margin: 75px;
+}
+
+#portfolio {
+    display: none;
 }
 
