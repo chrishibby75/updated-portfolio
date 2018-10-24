@@ -7,7 +7,7 @@ $(document).ready(function(){
     $('#itemTwo').on('click', function(){
         $('#about').css('display', 'none');
         $('#portfolio').css('display', 'block');
-        $('#contact').css('displey', 'none');
+        $('#contact').css('display', 'none');
     })
     $('#itemThree').on('click', function(){
         $('#about').css('display', 'none');
