@@ -86,3 +86,24 @@ li {
     margin: 0px 35px;
 }
 
+/* #contact {
+    display: none;
+} */
+
+.form-box {
+    border: solid black 1px;
+    color: whitesmoke;
+    padding: 25px;
+}
+
+.box-head {
+    padding-bottom: 50px;
+    background: grey;
+
+}
+
+.box-body {
+    background: gray;    
+    padding: 7px;
+}
+
