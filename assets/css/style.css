@@ -6,6 +6,7 @@ body {
 width: 100%;
 position: fixed;
 padding: 5px;
+background: white;
 
 }
 
@@ -14,6 +15,7 @@ ul {
     list-style: none;
     margin: 0;
     padding: 0;
+    background: white;
 
           
 }
@@ -64,7 +66,9 @@ li {
 .oscar {
     display: center;
     border: solid black 1px;
-    margin: 75px;
+    margin: 70px 170px;
+    height: 320px;
+    width: 400px;
 }
 
 /* #portfolio {
@@ -75,6 +79,10 @@ li {
     width: 600px;
     height: 450px;
     margin: 65px;
+    border: solid black 1px;
+}
 
+.btn {
+    margin: 0px 35px;
 }
 
