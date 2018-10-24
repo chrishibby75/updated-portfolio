@@ -67,7 +67,14 @@ li {
     margin: 75px;
 }
 
-#portfolio {
+/* #portfolio {
     display: none;
+} */
+
+.mywork {
+    width: 600px;
+    height: 450px;
+    margin: 65px;
+
 }
 
