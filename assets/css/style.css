@@ -71,9 +71,9 @@ li {
     width: 400px;
 }
 
-/* #portfolio {
+#portfolio {
     display: none;
-} */
+}
 
 .mywork {
     width: 600px;
@@ -88,9 +88,9 @@ li {
 
 /*contact form */
 
-/* #contact {
+#contact {
     display: none;
-} */
+}
 
 .form-box {
     border: solid black 1px;
