@@ -150,3 +150,93 @@ footer {
     color: rgba(211, 244, 247, 0.568);
     
 }
+
+@media only screen and (max-width: 768px) {
+
+    li {
+        display: center;
+        text-align: center;
+        font-size: 25px;
+        padding: 25px;
+    }
+
+    .oscar,
+    .jumbotron,
+    .mywork {
+        height: 340px;
+        width: 650px; 
+        display: center;      
+    }
+
+    h1,
+    .lead {
+        font-size: 25px;
+    }
+
+    .box-head {
+        height: 160px;
+        width: 700px
+
+    }
+    .box-body {
+        height: 550px;
+        width: 700px;
+        font-size: 25px;
+    }
+
+    input {
+        width: auto;
+        height: auto;
+    }
+
+    textarea {
+        width: auto;
+        height: 200px;
+    }
+
+} 
+
+@media only screen and (max-width: 375px) {
+    li {
+        display: center;
+        text-align: center;
+        font-size: 15px;
+        padding: 0;
+    }
+
+    .oscar,
+    .jumbotron,
+    .mywork {
+        height: 190px;
+        width: 300px; 
+        display: center;      
+    }
+
+    h1,
+    .lead {
+        font-size: 15px;
+    }
+
+    .box-head {
+        height: 60px;
+
+    }
+    .box-body {
+        height: 350px;
+        width: 300px;
+        font-size: 15px;
+    }
+
+    input {
+        width: auto;
+        height: auto;
+    }
+
+    textarea {
+        width: auto;
+        height: 100px;
+    }
+    
+
+    } 
+
